@@ -1,3 +1,4 @@
 # Alchemy
 
-Basic HTML + CSS project for Front-End development course at Baltic Institute of Technology.
+HTML + CSS 
+This project is for Front-End development course @ Baltic Institute of Technology.
